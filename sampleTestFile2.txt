@@ -1,3 +1,5 @@
 git revert commit 1
 
+testing git revert2
+
 This is sample file 2
