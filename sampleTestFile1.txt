@@ -1,1 +1,4 @@
 This is sample file 1
+
+this is new testing for conflicts
+this will be the success case.
