@@ -4,3 +4,5 @@ testing is very important
 therefore it is very necessary.
 this is new testing for conflicts
 this will be the success case.
+
+this is testing stash.
